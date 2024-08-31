@@ -4,5 +4,5 @@ orange
 banana
 peach
 lemon
-kiwi
-kiwi
+blueberry
+strawberry

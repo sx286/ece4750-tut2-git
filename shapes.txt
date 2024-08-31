@@ -2,3 +2,4 @@ rectangle
 circle
 triangle
 line
+dot
